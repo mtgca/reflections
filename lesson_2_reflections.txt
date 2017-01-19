@@ -3,3 +3,5 @@ The .git folder is created. We need it to initialize the repo.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 stagin area is an intermediate are that contains one or more files from the working dir. IT allows to group several files that are going to be commited under the same commit ID.
+
+How can you use the staging area to make sure you have one commit per logical change?
