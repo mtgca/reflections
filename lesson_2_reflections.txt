@@ -5,3 +5,5 @@ How is the staging area different from the working directory and the repository?
 stagin area is an intermediate are that contains one or more files from the working dir. IT allows to group several files that are going to be commited under the same commit ID.
 
 How can you use the staging area to make sure you have one commit per logical change?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
